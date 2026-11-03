@@ -1,0 +1,11 @@
+{
+  "schema": 1,
+  "updated": "2026-11-03",
+  "latest": { "version": "0.39.0" },
+  "notice": null,
+  "names": {
+    "locations": {},
+    "gateways": { "stan-magnus": "Nyx" }
+  },
+  "unverifiedGivers": []
+}
