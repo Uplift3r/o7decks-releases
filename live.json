@@ -2,11 +2,7 @@
   "schema": 1,
   "updated": "2026-11-04",
   "latest": { "version": "0.39.0" },
-  "notice": {
-    "id": "hi-test-1104",
-    "text": "Hi",
-    "level": "info"
-  },
+  "notice": null,
   "names": {
     "locations": {},
     "gateways": {
