@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "updated": "2026-11-04",
-  "latest": { "version": "0.41.7" },
+  "updated": "2026-11-10",
+  "latest": { "version": "0.42.0" },
   "notice": null,
   "names": {
     "locations": {},
